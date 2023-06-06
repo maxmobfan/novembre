@@ -23,8 +23,8 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
-      "backup_ad": "unity",
+      "main_ad": "fan",
+      "backup_ad": "admob",
       "admob_banner_unit_id": "ca-app-pub-6947849202823364/4926089001",
       "admob_interstitial_unit_id": "ca-app-pub-6947849202823364/2654276743",
       "admob_native_unit_id": "ca-app-pub-6947849202823364/6648581829",
@@ -33,9 +33,9 @@
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "fan_banner_unit_id": "181585681537889_181586208204503",
+      "fan_interstitial_unit_id": "181585681537889_181586261537831",
+      "fan_native_unit_id": "181585681537889_181586361537821",
       "startapp_app_id": "0",
       "unity_game_id": "4725055",
       "unity_banner_placement_id": "Banner_Android",
